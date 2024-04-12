@@ -1,4 +1,4 @@
-## Hello world! I'm Manoj, i create native android applications using Kotlin. Ready to explore any tech stack :)
+### Hello world! I'm Manoj, i create native android applications using Kotlin. Ready to explore any tech stack :)
 
 #### I am skilled at :
 
