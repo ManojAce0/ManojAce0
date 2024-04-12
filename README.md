@@ -1,5 +1,8 @@
 ### Hello world! I'm Manoj, i create native android applications using Kotlin. Ready to explore any tech stack :)
 
+![GIF](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
+
+
 #### I am skilled at :
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
