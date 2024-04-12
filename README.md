@@ -1,6 +1,6 @@
 ### Hello world! I'm Manoj, i create native android applications using Kotlin. Ready to explore any tech stack :)
 
-![GIF](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
+![GIF](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 
 
 #### I am skilled at :
